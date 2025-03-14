@@ -1,2 +1,1 @@
-# if-then-codelab
-if then statments, comparison and logic operators
+https://simonh3-coder.github.io/comparision-Codelab-2/
